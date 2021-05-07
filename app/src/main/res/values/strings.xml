@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="Name">Name</string>
+    <string-array name="SpinArray">
+        <item name="Work"
+            type="string">Work</item>
+        <item name="Home" type="string">Home</item>
+        <item name="Mobile" type="string">Mobile</item>
+        <item name="Other" type="string">Other</item>
+    </string-array>
+</resources>
